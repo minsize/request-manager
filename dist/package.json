@@ -1,0 +1,22 @@
+{
+  "name": "@minsize/request-manager",
+  "version": "0.0.1-beta",
+  "description": "Query manager with limits",
+  "license": "MIT",
+  "types": "index.ts",
+  "author": {
+    "name": "Egor Kytyukov",
+    "url": "https://vk.com/xuserz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minsize/request-manager"
+  },
+  "contributors": [],
+  "keywords": [
+    "request manager",
+    "request",
+    "manager",
+    "fetch"
+  ]
+}
